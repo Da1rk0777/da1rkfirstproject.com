@@ -1,2 +1,2 @@
-# da1rkfirstproject.com
-Da1rkFirstProject
+# BlueMarketing.com
+Project Blue Marketing
